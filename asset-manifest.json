@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/diref/static/css/main.73ded73d.chunk.css",
+    "main.js": "/diref/static/js/main.47bc3aee.chunk.js",
+    "main.js.map": "/diref/static/js/main.47bc3aee.chunk.js.map",
+    "runtime-main.js": "/diref/static/js/runtime-main.507c9f6e.js",
+    "runtime-main.js.map": "/diref/static/js/runtime-main.507c9f6e.js.map",
+    "static/js/2.189d71b6.chunk.js": "/diref/static/js/2.189d71b6.chunk.js",
+    "static/js/2.189d71b6.chunk.js.map": "/diref/static/js/2.189d71b6.chunk.js.map",
+    "index.html": "/diref/index.html",
+    "precache-manifest.66ce2c93a4e9903153199f10a875b36f.js": "/diref/precache-manifest.66ce2c93a4e9903153199f10a875b36f.js",
+    "service-worker.js": "/diref/service-worker.js",
+    "static/css/main.73ded73d.chunk.css.map": "/diref/static/css/main.73ded73d.chunk.css.map",
+    "static/js/2.189d71b6.chunk.js.LICENSE.txt": "/diref/static/js/2.189d71b6.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/diref/static/media/streettrees.29a15ef2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.507c9f6e.js",
+    "static/js/2.189d71b6.chunk.js",
+    "static/css/main.73ded73d.chunk.css",
+    "static/js/main.47bc3aee.chunk.js"
+  ]
+}
